@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "admin-001",
+      "username": "admin",
+      "email": "admin@cuentos.com",
+      "password": "$2a$10$1GGw8.O8XvD/cQQfLZ7fOOEL4lHxjGZEQR7CZKJVcRgj3MQ1.9G.2",
+      "role": "admin",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "favorites": []
+    },
+    {
+      "id": "user-001",
+      "username": "maria_lopez",
+      "email": "maria@ejemplo.com",
+      "password": "$2a$10$1GGw8.O8XvD/cQQfLZ7fOOEL4lHxjGZEQR7CZKJVcRgj3MQ1.9G.2",
+      "role": "user",
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "favorites": ["story-001", "story-002"]
+    },
+    {
+      "id": "user-002",
+      "username": "carlos_garcia",
+      "email": "carlos@ejemplo.com",
+      "password": "$2a$10$1GGw8.O8XvD/cQQfLZ7fOOEL4lHxjGZEQR7CZKJVcRgj3MQ1.9G.2",
+      "role": "user",
+      "createdAt": "2024-02-01T00:00:00.000Z",
+      "favorites": ["story-001"]
+    },
+    {
+      "id": "user-003",
+      "username": "ana_martinez",
+      "email": "ana@ejemplo.com",
+      "password": "$2a$10$1GGw8.O8XvD/cQQfLZ7fOOEL4lHxjGZEQR7CZKJVcRgj3MQ1.9G.2",
+      "role": "user",
+      "createdAt": "2024-02-15T00:00:00.000Z",
+      "favorites": ["story-002", "story-003"]
+    }
+  ]
+}

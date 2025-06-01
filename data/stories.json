@@ -1,0 +1,211 @@
+{
+  "stories": [
+    {
+      "id": "story-001",
+      "title": "El Zorro Amable",
+      "description": "Una hermosa historia sobre Félix, un zorro que aprende el valor de la amistad y la bondad en el bosque encantado.",
+      "ageRange": "4-8 años",
+      "coverImage": "/images/zorro-amable-cover.jpg",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "title": "El Encuentro Mágico",
+          "content": "En lo profundo del bosque encantado, vivía Félix, un pequeño zorro de pelaje dorado que brillaba como el sol de la mañana. Un día, mientras exploraba entre los árboles antiguos, escuchó un llanto muy suave que venía de detrás de unas flores silvestres.",
+          "image": "/images/felix-encuentro.jpg",
+          "chapter": "Capítulo 1: Conociendo a Félix"
+        },
+        {
+          "pageNumber": 2,
+          "title": "Una Amistad Inesperada",
+          "content": "Félix siguió el sonido y encontró a Luna, una pequeña ardilla que había perdido todas sus nueces para el invierno. Sus ojitos brillaban con lágrimas, pero cuando vio a Félix, sintió una calidez especial en su corazón.",
+          "image": "/images/felix-luna.jpg",
+          "chapter": "Capítulo 1: Conociendo a Félix"
+        },
+        {
+          "pageNumber": 3,
+          "title": "El Gesto de Bondad",
+          "content": "Sin dudarlo ni un segundo, Félix compartió toda su comida con Luna. 'Los amigos se ayudan entre sí', le dijo con una sonrisa tan brillante como las estrellas. Luna sintió que su corazón se llenaba de alegría y gratitud.",
+          "image": "/images/felix-bondad.jpg",
+          "chapter": "Capítulo 2: La Bondad en Acción"
+        },
+        {
+          "pageNumber": 4,
+          "title": "Construyendo Juntos",
+          "content": "Desde ese día, Félix y Luna trabajaron en equipo para recolectar frutas y nueces. Otros animales del bosque los vieron trabajar con tanta armonía que decidieron unirse a ellos. Pronto, todo el bosque se llenó de risas y amistad.",
+          "image": "/images/felix-equipo.jpg",
+          "chapter": "Capítulo 3: El Poder del Trabajo en Equipo"
+        },
+        {
+          "pageNumber": 5,
+          "title": "Un Bosque Lleno de Amor",
+          "content": "El bosque encantado se transformó en el lugar más hermoso de todos. Los animales habían aprendido que la verdadera magia no está en los hechizos, sino en los gestos de amor y bondad que compartimos con otros cada día.",
+          "image": "/images/felix-final.jpg",
+          "chapter": "Capítulo 4: La Verdadera Magia"
+        }
+      ],
+      "values": [
+        {
+          "character": "Félix el Zorro",
+          "value": "Bondad y Amabilidad",
+          "description": "Félix nos enseña que ser amable con otros nos hace sentir bien y crea lazos especiales de amistad.",
+          "pages": [1, 2, 3]
+        },
+        {
+          "character": "Luna la Ardilla",
+          "value": "Gratitud y Humildad",
+          "description": "Luna nos muestra la importancia de agradecer y aceptar ayuda cuando la necesitamos.",
+          "pages": [2, 3, 4]
+        },
+        {
+          "character": "Los Animales del Bosque",
+          "value": "Trabajo en Equipo",
+          "description": "Todos los animales aprenden que trabajar juntos hace que las tareas sean más fáciles y divertidas.",
+          "pages": [4, 5]
+        },
+        {
+          "character": "El Bosque Encantado",
+          "value": "Inclusión y Comunidad",
+          "description": "El bosque representa cómo un lugar se vuelve especial cuando todos se sienten bienvenidos.",
+          "pages": [4, 5]
+        }
+      ],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z",
+      "published": true
+    },
+    {
+      "id": "story-002",
+      "title": "La Mariposa Valiente",
+      "description": "Conoce a Celeste, una pequeña mariposa que aprende que el coraje no significa no tener miedo, sino hacer lo correcto a pesar del miedo.",
+      "ageRange": "5-9 años",
+      "coverImage": "/images/mariposa-valiente-cover.jpg",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "title": "El Jardín de los Sueños",
+          "content": "En un jardín lleno de flores de colores brillantes, vivía Celeste, una mariposa con alas que parecían pedacitos de cielo. Aunque era hermosa, Celeste sentía mucho miedo de volar muy alto porque pensaba que podría perderse.",
+          "image": "/images/celeste-jardin.jpg",
+          "chapter": "Capítulo 1: Conociendo a Celeste"
+        },
+        {
+          "pageNumber": 2,
+          "title": "La Llamada de Auxilio",
+          "content": "Una mañana, escuchó un grito de ayuda que venía de lo alto de un árbol gigante. Era Pip, un pajarito bebé que había caído de su nido y no podía regresar. Todos los animales del jardín miraban hacia arriba, pero nadie sabía cómo ayudar.",
+          "image": "/images/celeste-pip.jpg",
+          "chapter": "Capítulo 2: El Momento de la Verdad"
+        },
+        {
+          "pageNumber": 3,
+          "title": "Superando el Miedo",
+          "content": "Celeste sintió que su corazón latía muy fuerte. Tenía miedo, pero sabía que Pip la necesitaba. Respiró profundo y comenzó a volar más alto de lo que jamás había volado. Sus alas temblaban, pero su corazón estaba lleno de determinación.",
+          "image": "/images/celeste-vuela.jpg",
+          "chapter": "Capítulo 3: El Vuelo del Coraje"
+        },
+        {
+          "pageNumber": 4,
+          "title": "El Rescate Heroico",
+          "content": "Con mucho cuidado, Celeste ayudó a Pip a subirse a su espalda y lo llevó de regreso a su nido. Cuando llegaron, la mamá pájaro los recibió con lágrimas de alegría. Todo el jardín aplaudió la valentía de Celeste.",
+          "image": "/images/celeste-rescate.jpg",
+          "chapter": "Capítulo 4: La Recompensa del Valor"
+        },
+        {
+          "pageNumber": 5,
+          "title": "El Verdadero Coraje",
+          "content": "Desde ese día, Celeste entendió que ser valiente no significa no tener miedo, sino hacer lo correcto cuando otros necesitan nuestra ayuda. Ahora vuela por todo el jardín con confianza, sabiendo que el coraje vive en su corazón.",
+          "image": "/images/celeste-valiente.jpg",
+          "chapter": "Capítulo 5: La Lección Aprendida"
+        }
+      ],
+      "values": [
+        {
+          "character": "Celeste la Mariposa",
+          "value": "Coraje y Valentía",
+          "description": "Celeste nos enseña que el verdadero coraje es actuar con bondad incluso cuando tenemos miedo.",
+          "pages": [1, 3, 4, 5]
+        },
+        {
+          "character": "Pip el Pajarito",
+          "value": "Confianza en Otros",
+          "description": "Pip aprende a confiar en la ayuda de los demás y a pedir apoyo cuando lo necesita.",
+          "pages": [2, 4]
+        },
+        {
+          "character": "Los Animales del Jardín",
+          "value": "Solidaridad",
+          "description": "La comunidad del jardín nos muestra la importancia de apoyar a quienes actúan con valentía.",
+          "pages": [2, 4, 5]
+        }
+      ],
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "updatedAt": "2024-01-15T00:00:00.000Z",
+      "published": true
+    },
+    {
+      "id": "story-003",
+      "title": "El Ratón Generoso",
+      "description": "Únete a Tomás, un pequeño ratón que descubre que compartir lo poco que tenemos puede crear la mayor felicidad.",
+      "ageRange": "3-7 años",
+      "coverImage": "/images/raton-generoso-cover.jpg",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "title": "La Casita Pequeña",
+          "content": "En una casita muy pequeña al pie de un roble gigante, vivía Tomás, un ratoncito gris con un corazón dorado. No tenía muchas cosas, pero siempre mantenía su hogar limpio y acogedor, lleno del aroma de flores silvestres.",
+          "image": "/images/tomas-casita.jpg",
+          "chapter": "Capítulo 1: El Hogar de Tomás"
+        },
+        {
+          "pageNumber": 2,
+          "title": "El Invierno Llega",
+          "content": "Cuando llegó el invierno más frío que se recordaba, Tomás había guardado suficiente comida para él. Pero una noche nevada, escuchó golpecitos en su puerta. Era una familia de ratones que había perdido su hogar en la tormenta.",
+          "image": "/images/tomas-invierno.jpg",
+          "chapter": "Capítulo 2: Visitantes Inesperados"
+        },
+        {
+          "pageNumber": 3,
+          "title": "El Gran Gesto",
+          "content": "Sin pensarlo dos veces, Tomás abrió su puerta y compartió todo lo que tenía: su comida, su cama calentita y su hogar. 'Una casa llena de amor siempre tiene espacio para más', les dijo con una sonrisa que calentaba más que cualquier chimenea.",
+          "image": "/images/tomas-comparte.jpg",
+          "chapter": "Capítulo 3: El Corazón Abierto"
+        },
+        {
+          "pageNumber": 4,
+          "title": "La Magia de Compartir",
+          "content": "Algo mágico sucedió esa noche. Aunque tenían menos comida cada uno, se sentían más llenos que nunca. Cantaron canciones, contaron historias y rieron hasta que el sol apareció. La casita pequeña se había vuelto el lugar más alegre del bosque.",
+          "image": "/images/tomas-familia.jpg",
+          "chapter": "Capítulo 4: La Verdadera Abundancia"
+        },
+        {
+          "pageNumber": 5,
+          "title": "Un Hogar Lleno de Amor",
+          "content": "Cuando llegó la primavera, la familia decidió quedarse para siempre. Trabajaron juntos para hacer la casita más grande y hermosa. Tomás aprendió que las cosas más valiosas en la vida se multiplican cuando las compartimos con amor.",
+          "image": "/images/tomas-feliz.jpg",
+          "chapter": "Capítulo 5: La Familia Elegida"
+        }
+      ],
+      "values": [
+        {
+          "character": "Tomás el Ratón",
+          "value": "Generosidad",
+          "description": "Tomás nos enseña que compartir lo que tenemos, por poco que sea, puede cambiar la vida de otros.",
+          "pages": [3, 4, 5]
+        },
+        {
+          "character": "La Familia de Ratones",
+          "value": "Gratitud",
+          "description": "La familia visitante nos muestra cómo agradecer y valorar la bondad de otros.",
+          "pages": [2, 4, 5]
+        },
+        {
+          "character": "Todos Juntos",
+          "value": "Familia y Comunidad",
+          "description": "La historia nos enseña que la familia no siempre es de sangre, sino de corazón.",
+          "pages": [4, 5]
+        }
+      ],
+      "createdAt": "2024-02-01T00:00:00.000Z",
+      "updatedAt": "2024-02-01T00:00:00.000Z",
+      "published": true
+    }
+  ]
+}
